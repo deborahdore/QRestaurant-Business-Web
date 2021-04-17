@@ -1,0 +1,18 @@
+.my-modal .modal-content {
+    background-color: #023047;
+    border-radius: 10px;
+}
+
+.text, #contained-modal-title-vcenter {
+    color: #ffb703;
+}
+
+.close {
+    color: #fff;
+    opacity: 1;
+}
+
+.close:hover {
+    color: #8ecae6;
+    opacity: 1;
+}

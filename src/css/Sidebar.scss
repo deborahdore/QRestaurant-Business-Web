@@ -1,0 +1,11 @@
+$sidebar-bg-color: #7fb5cf;
+$sidebar-color: white;
+$sidebar-width: 20%;
+$sidebar-collapsed-width: 0px;
+$highlight-color: white;
+$submenu-bg-color: #7fb5cf;
+$submenu-bg-color-collapsed: #7fb5cf;
+$icon-bg-color: #7fb5cf;
+$icon-size: 35px;
+
+@import 'node_modules/react-pro-sidebar/dist/scss/styles';

@@ -1,0 +1,16 @@
+#card {
+    background-color: #023047;
+    border: 1px solid #023047;
+}
+
+@media screen {
+    #card {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #card {
+        width: 100%;
+    }
+}

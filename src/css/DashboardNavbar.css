@@ -1,0 +1,21 @@
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: #023047;
+    color: white;
+    z-index: 1;
+}
+
+.logo {
+    color: white;
+    padding: 1%;
+    margin-left: 3%;
+}
+
+.profile {
+    color: white;
+}
+

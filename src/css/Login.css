@@ -1,0 +1,35 @@
+.title {
+    color: white;
+}
+
+.gold {
+    color: #ffb703;
+}
+
+hr {
+    background-color: #ffb703;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ffb703;
+    color: white;
+}
+
+.link {
+    background: none !important;
+    border: none;
+    padding: 0 !important;
+    /*optional*/
+    font-family: arial, sans-serif;
+    /*input has OS specific font-family*/
+    color: #069;
+    text-decoration: underline;
+    cursor: pointer;
+}

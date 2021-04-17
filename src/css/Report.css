@@ -1,0 +1,21 @@
+#report {
+    border: 0;
+    width: 90%;
+    margin: 5%;
+    padding: 10px;
+    height: fit-content;
+    background-color: #6AA8C6;
+    color: white;
+    font-weight: bold;
+
+
+}
+
+#report:hover {
+    border: 2px solid #ffb703;
+}
+
+li {
+    list-style-type: none;
+
+}

@@ -1,0 +1,11 @@
+#btnReports, #btnAttendances, #btnLogin, #btnRegistrate, #btnLogout, #btnDropdown, #btnAdd {
+    border: 0;
+    font-weight: bold;
+    background-color: #6AA8C6;
+}
+
+#btnReports:hover, #btnAttendances:hover, #btnLogin:hover, #btnRegistrate:hover, #btnLogout:hover, #btnDropdown:hover, #btnAdd:hover {
+    font-weight: bold;
+    border: 0;
+    background-color: #8ecae6;
+}
